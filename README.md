@@ -1,7 +1,7 @@
 # Description 
 This project generates the Fibonacci sequence up to a specified number of terms using Golang.
 
-#How to Install 
+# How to Install 
 
 Installation
 To use this project, you need to have Golang installed on your machine. If you haven't installed it already, you can download and install it from the official website: https://golang.org/dl/
